@@ -9,7 +9,7 @@ Requires Yay and Fzf
 ```
 wget https://raw.githubusercontent.com/Deen-Weible/Sniff/refs/heads/main/packagesearch.sh
 ```
-
+- add the alias to your .basrc/.zshrc/etc
 ```
 alias sniff='<path to script>'
 ```
