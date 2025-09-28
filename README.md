@@ -6,12 +6,13 @@ Requires Yay and Fzf
 ## "Install"
 
 - Clone/download packagesearch.sh and alias it to your command of choice
-'''bash
+```
 wget https://raw.githubusercontent.com/Deen-Weible/Sniff/refs/heads/main/packagesearch.sh
-'''
-'''bash
+```
+
+```
 alias sniff='<path to script>'
-'''
+```
 
 ## Screenshots
 
