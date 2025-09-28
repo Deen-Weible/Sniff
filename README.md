@@ -17,4 +17,8 @@ alias sniff='<path to script>'
 ## Screenshots
 
  ![Feature 1](Media/aur.png) 
-![Feature 2](Media/core.png) 
+![Feature 2](Media/core.png)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
